@@ -1,0 +1,7 @@
+{
+  "name": "ionicDegpegApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
